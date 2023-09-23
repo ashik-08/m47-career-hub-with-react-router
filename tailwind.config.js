@@ -8,11 +8,12 @@ export default {
     extend: {
       colors: {
         clifford: "#da373d",
-        "pri-text": "#1C1B1B",
-        "sec-text": "#1C1B1B99",
-        "spe-text": "#2F80ED",
-        "cal-text": "#1C1B1BCC",
-        "main-bg": "#F3F3F3",
+        "pri-text": "#1A1919",
+        "sec-text": "#757575",
+        "job-text": "#474747",
+        "job-ava-text": "#A3A3A3",
+        "foot-text": "#FFFFFFB2",
+        "app-job-bg": "#F4F4F4",
       },
     },
   },
